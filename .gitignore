@@ -2,6 +2,6 @@
 /.idea
 /node_modules
 /config.*
-!/config.example.ini
+!/config.ini
 /welcome.png
 /update.sh
